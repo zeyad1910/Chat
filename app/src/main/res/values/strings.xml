@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChatC37</string>
+    <string name="chat_app">Chat App</string>
+    <string name="create_account">Create Account</string>
+    <string name="user_name_error">Please enter user name</string>
+    <string name="add_room_title">Add Room</string>
+    <string name="sports">Sports</string>
+    <string name="Music">Music</string>
+    <string name="movies">Movies</string>
+
+    <array name="room_categories">
+        <item>Sports</item>
+        <item>Movies</item>
+        <item>Music</item>
+    </array>
+</resources>
